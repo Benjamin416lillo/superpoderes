@@ -1,0 +1,23 @@
+<css>
+<head>
+ <title>superpoderes</title>
+ </head>
+ body {
+background: lightgray
+ }
+ section {
+ text-align: center;
+background: lightgreen;
+
+ }
+ div {
+ 	text-align: center;
+ 	background: lightyellow;
+ }
+ p {
+text-align: justify;
+
+ }
+ h1 { 
+color: blue
+  }
